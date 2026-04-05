@@ -1,3 +1,9 @@
 Teptide screen: Nifty 500, 1M price < −15%, FCF > 0 returned 61 names (banks, OMCs, EMS, cement, etc.). A stricter screen (same + EBITDA margin growth ≥ 0) returned no rows — so “down 15% + margin expansion” is not available as a single API filter; the desk used profile-level YoY/3Y margin & OCF where needed.
 
 
+
+Kite :L
+Rendered charts
+Not available
+Reproduce in Kite web/app or export CSV from the same daily series
+“All possible charts” in practice: for each symbol, in Kite: Chart → Daily → add 20/50/200 MA, Volume, optional ATR; the numbers below tell you what you should see on those charts.
